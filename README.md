@@ -17,5 +17,5 @@ This is a simple weather application that fetches real-time weather data using t
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/msu10620221061506136/Whether26.git
+   git clone https://github.com/msu10620221061506136/Weather26.git
    
